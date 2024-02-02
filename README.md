@@ -29,6 +29,4 @@ El proyecto ha sido desarrollado en un archivo Jupyter Notebook (Taller_1.ipynb)
 
 [Enlace al Repositorio](https://github.com/gustavo198saavedra/Taller1)
 
-## Fecha de Entrega
 
-Este ejercicio es un requisito y debe ser entregado hasta el viernes 2 de Febrero a la medianoche. Cualquier pregunta o aclaración adicional puede ser dirigida al instructor del taller. ¡Gracias por tu participación!
