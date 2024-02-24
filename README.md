@@ -64,4 +64,40 @@ Los proyectos han sido desarrollados en la carpeta Notebooks y se encuentra disp
 
 [Enlace al Repositorio](https://github.com/gustavo198saavedra/Datascience)
 
+### Planteamiento del Problema:
+
+El problema se centra en comprender y analizar el mercado de los videojuegos, identificando patrones, tendencias y relaciones entre diferentes variables que puedan influir en el éxito comercial de un juego. Este análisis es crucial tanto para los desarrolladores de videojuegos como para las empresas editoras, ya que les permite tomar decisiones estratégicas informadas en áreas como el desarrollo de juegos, la inversión en marketing y la selección de plataformas de lanzamiento.
+
+### Importancia del Análisis de Datos:
+
+1. **Toma de Decisiones Informadas:** El análisis de datos proporciona información valiosa sobre qué géneros de juegos son más populares, qué características se correlacionan con altas puntuaciones de los críticos y cuáles son las plataformas más rentables. Esto permite a los desarrolladores y editores tomar decisiones informadas sobre qué juegos producir, cómo comercializarlos y dónde lanzarlos.
+
+2. **Optimización de Recursos:** Comprender las preferencias de los jugadores y los factores que influyen en las ventas ayuda a asignar recursos de desarrollo y marketing de manera más eficiente. Esto puede conducir a una mayor rentabilidad y a maximizar el retorno de la inversión en el desarrollo de juegos.
+
+3. **Identificación de Tendencias Emergentes:** El análisis de datos permite identificar tendencias emergentes en la industria de los videojuegos, como cambios en las preferencias de los jugadores o el impacto de nuevas tecnologías. Estar al tanto de estas tendencias puede proporcionar una ventaja competitiva significativa.
+
+### Objetivo del Proyecto:
+
+El objetivo principal del proyecto es analizar los datos relacionados con las ventas y la recepción crítica de los videojuegos para identificar patrones y tendencias clave. Algunos de los objetivos específicos incluyen:
+
+- Identificar los géneros de juegos más populares y lucrativos.
+- Analizar la relación entre las puntuaciones de los críticos y las ventas totales.
+- Evaluar el desempeño de ventas en diferentes regiones geográficas.
+- Investigar la influencia de las plataformas de lanzamiento en las ventas de juegos.
+
+### Solución Propuesta:
+
+La solución propuesta implica realizar un análisis exhaustivo de los datos disponibles para extraer información valiosa que pueda guiar las decisiones comerciales. Esto implica:
+
+1. **Preprocesamiento de Datos:** Limpiar y preparar los datos para su análisis, abordando valores faltantes, duplicados o atípicos.
+
+2. **Análisis Exploratorio de Datos:** Explorar y visualizar los datos para identificar patrones, correlaciones y tendencias.
+
+3. **Modelado Predictivo (Opcional):** Si es necesario, desarrollar modelos predictivos para predecir el desempeño de ventas de futuros juegos en función de diversas características.
+
+4. **Informe y Recomendaciones:** Presentar los hallazgos del análisis en un informe detallado que destaque las principales conclusiones y proporcione recomendaciones prácticas para los desarrolladores y editores de videojuegos.
+
+En resumen, este proyecto busca proporcionar información valiosa sobre el mercado de los videojuegos que pueda utilizarse para optimizar la toma de decisiones comerciales y mejorar el éxito de los juegos en el mercado.
+
+
 
