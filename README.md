@@ -64,6 +64,7 @@ Los proyectos han sido desarrollados en la carpeta Notebooks y se encuentra disp
 
 [Enlace al Repositorio](https://github.com/gustavo198saavedra/Datascience)
 
+## Proyecto Analisis del mercado de los videojuegos
 ### Planteamiento del Problema:
 
 El problema se centra en comprender y analizar el mercado de los videojuegos, identificando patrones, tendencias y relaciones entre diferentes variables que puedan influir en el éxito comercial de un juego. Este análisis es crucial tanto para los desarrolladores de videojuegos como para las empresas editoras, ya que les permite tomar decisiones estratégicas informadas en áreas como el desarrollo de juegos, la inversión en marketing y la selección de plataformas de lanzamiento.
