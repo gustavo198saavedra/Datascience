@@ -1,11 +1,11 @@
-[Enlace al Taller de Machine Learning con Dataset Iris](#taller-de-machine-learning-con-dataset-iris)
+[Enlace al Taller de Machine Learning con Dataset Iris](https://github.com/gustavo198saavedra/Datascience?tab=readme-ov-file#taller-de-machine-learning-con-dataset-iris-taller-de-machine-learning-con-dataset-iris)
 
-[Enlace al Taller de Machine Learning: Boston House Prices Dataset](#taller-de-machine-learning-boston-house-prices-dataset)
+[Enlace al Taller de Machine Learning: Boston House Prices Dataset](https://github.com/gustavo198saavedra/Datascience?tab=readme-ov-file#taller-de-machine-learning-boston-house-prices-dataset-taller-de-machine-learning-boston-house-prices-dataset)
 
-[Enlace al Proyecto Analisis del mercado de los videojuegos](#proyecto-analisis-del-mercado-de-los-videojuegos)
+[Enlace al Proyecto Analisis del mercado de los videojuegos](https://github.com/gustavo198saavedra/Datascience?tab=readme-ov-file#proyecto-analisis-del-mercado-de-los-videojuegos-proyecto-analisis-del-mercado-de-los-videojuegos)
 
 
-# Taller de Machine Learning con Dataset Iris {#taller-de-machine-learning-con-dataset-iris}
+# Taller de Machine Learning con Dataset Iris
 
 Este proyecto es parte de un taller de aprendizaje automático y utiliza el conocido conjunto de datos Iris. El objetivo principal es realizar un análisis detallado de diferentes modelos k-Nearest Neighbors (k-NN) y evaluar su desempeño en la tarea de clasificación de especies de iris.
 
@@ -30,7 +30,7 @@ Este proyecto es parte de un taller de aprendizaje automático y utiliza el cono
 5. **Comentarios en el Código:**
    - Uso de comentarios para explicar cada línea de código y facilitar la comprensión.
 
-# Taller de Machine Learning: Boston House Prices Dataset {#taller-de-machine-learning-boston-house-prices-dataset}
+# Taller de Machine Learning: Boston House Prices Dataset 
 
 Este proyecto tiene como objetivo explorar diversas estrategias de ingeniería de características en el contexto de un problema de regresión lineal utilizando el conjunto de datos de precios de casas de Boston. Se utilizará un modelo de regresión lineal estándar y se evaluará su desempeño en diferentes escenarios de preprocesamiento de datos.
 
@@ -71,7 +71,7 @@ Los proyectos han sido desarrollados en la carpeta Notebooks y se encuentra disp
 
 [Enlace al Repositorio](https://github.com/gustavo198saavedra/Datascience)
 
-# Proyecto Analisis del mercado de los videojuegos {#proyecto-analisis-del-mercado-de-los-videojuegos}
+# Proyecto Analisis del mercado de los videojuegos
 ### Planteamiento del Problema:
 
 El problema se centra en comprender y analizar el mercado de los videojuegos, identificando patrones, tendencias y relaciones entre diferentes variables que puedan influir en el éxito comercial de un juego. Este análisis es crucial tanto para los desarrolladores de videojuegos como para las empresas editoras, ya que les permite tomar decisiones estratégicas informadas en áreas como el desarrollo de juegos, la inversión en marketing y la selección de plataformas de lanzamiento.
