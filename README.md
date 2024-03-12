@@ -1,4 +1,13 @@
-# Taller de Machine Learning con Dataset Iris
+([#taller-de-machine-learning-con-dataset-iris](https://github.com/gustavo198saavedra/Datascience/edit/main/README.md#taller-de-machine-learning-con-dataset-iris-taller-de-machine-learning-con-dataset-iris))
+
+[[Enlace al Taller de Machine Learning: Boston House Prices Dataset](#taller-de-machine-learning-boston-house-prices-dataset)](https://github.com/gustavo198saavedra/Datascience/edit/main/README.md#taller-de-machine-learning-boston-house-prices-dataset-taller-de-machine-learning-boston-house-prices-dataset)
+
+[[Enlace al Proyecto Analisis del mercado de los videojuegos](#proyecto-analisis-del-mercado-de-los-videojuegos)](https://github.com/gustavo198saavedra/Datascience/edit/main/README.md#taller-de-machine-learning-boston-house-prices-dataset-taller-de-machine-learning-boston-house-prices-dataset)
+
+Contenido del análisis de datos.
+
+
+# Taller de Machine Learning con Dataset Iris {#taller-de-machine-learning-con-dataset-iris}
 
 Este proyecto es parte de un taller de aprendizaje automático y utiliza el conocido conjunto de datos Iris. El objetivo principal es realizar un análisis detallado de diferentes modelos k-Nearest Neighbors (k-NN) y evaluar su desempeño en la tarea de clasificación de especies de iris.
 
@@ -23,7 +32,7 @@ Este proyecto es parte de un taller de aprendizaje automático y utiliza el cono
 5. **Comentarios en el Código:**
    - Uso de comentarios para explicar cada línea de código y facilitar la comprensión.
 
-# Taller de Machine Learning: Boston House Prices Dataset
+# Taller de Machine Learning: Boston House Prices Dataset {#taller-de-machine-learning-boston-house-prices-dataset}
 
 Este proyecto tiene como objetivo explorar diversas estrategias de ingeniería de características en el contexto de un problema de regresión lineal utilizando el conjunto de datos de precios de casas de Boston. Se utilizará un modelo de regresión lineal estándar y se evaluará su desempeño en diferentes escenarios de preprocesamiento de datos.
 
@@ -64,7 +73,7 @@ Los proyectos han sido desarrollados en la carpeta Notebooks y se encuentra disp
 
 [Enlace al Repositorio](https://github.com/gustavo198saavedra/Datascience)
 
-## Proyecto Analisis del mercado de los videojuegos
+# Proyecto Analisis del mercado de los videojuegos {#proyecto-analisis-del-mercado-de-los-videojuegos}
 ### Planteamiento del Problema:
 
 El problema se centra en comprender y analizar el mercado de los videojuegos, identificando patrones, tendencias y relaciones entre diferentes variables que puedan influir en el éxito comercial de un juego. Este análisis es crucial tanto para los desarrolladores de videojuegos como para las empresas editoras, ya que les permite tomar decisiones estratégicas informadas en áreas como el desarrollo de juegos, la inversión en marketing y la selección de plataformas de lanzamiento.
@@ -100,5 +109,31 @@ La solución propuesta implica realizar un análisis exhaustivo de los datos dis
 
 En resumen, este proyecto busca proporcionar información valiosa sobre el mercado de los videojuegos que pueda utilizarse para optimizar la toma de decisiones comerciales y mejorar el éxito de los juegos en el mercado.
 
+**Informe de Análisis del Mercado de Videojuegos**
 
+**Introducción:**
+El presente informe tiene como objetivo analizar el mercado de los videojuegos mediante el estudio de datos relacionados con las ventas y la recepción crítica de los mismos. Se utilizaron técnicas de análisis de datos y modelado predictivo para identificar patrones, tendencias y relaciones clave que puedan influir en el éxito comercial de un juego.
 
+**Metodología:**
+Se utilizó un conjunto de datos que incluye información sobre diferentes aspectos de los videojuegos, como su título, género, plataforma, ventas y puntajes de los críticos. Se realizó un análisis exploratorio de datos para comprender la distribución y las relaciones entre las variables. Luego, se aplicaron modelos de regresión para predecir el puntaje de los críticos.
+
+**Resultados:**
+1. **Patrones de Ventas:** Se identificaron ciertos géneros de juegos que tienden a tener mayores ventas en comparación con otros. Los juegos de acción y aventura parecen ser los más populares, seguidos de cerca por los juegos de disparos y deportes.
+
+2. **Relación entre Puntajes de Críticos y Ventas:** Se observó una correlación positiva entre los puntajes de los críticos y las ventas totales de los juegos. Esto sugiere que los juegos mejor calificados tienden a vender más unidades.
+
+3. **Desempeño de Plataformas:** Se encontraron diferencias en el desempeño de las ventas de juegos en diferentes regiones geográficas y plataformas de lanzamiento. Algunas plataformas pueden ser más populares en ciertas regiones, lo que puede influir en las estrategias de lanzamiento de los juegos.
+
+**Conclusiones:**
+- Los desarrolladores y editores de videojuegos pueden utilizar los hallazgos de este análisis para tomar decisiones informadas sobre qué tipos de juegos producir, cómo comercializarlos y dónde lanzarlos.
+- Es importante prestar atención a las opiniones de los críticos, ya que los juegos bien calificados tienden a tener un mejor desempeño en términos de ventas.
+- Se recomienda realizar un seguimiento continuo del mercado y adaptar las estrategias comerciales según las tendencias emergentes y los cambios en las preferencias de los jugadores.
+
+**Recomendaciones:**
+1. **Diversificar el Catálogo:** Considerar la producción de juegos en una variedad de géneros para satisfacer las diferentes preferencias de los jugadores.
+2. **Invertir en Calidad:** Priorizar la calidad en el desarrollo de juegos para obtener mejores puntajes de los críticos y, en última instancia, mayores ventas.
+3. **Segmentación del Mercado:** Adaptar las estrategias de lanzamiento y marketing según las preferencias regionales y las plataformas de juego más populares en cada mercado objetivo.
+
+**Próximos Pasos:**
+- Realizar un seguimiento continuo del desempeño de los juegos lanzados y ajustar las estrategias según los resultados.
+- Explorar el uso de técnicas de aprendizaje automático más avanzadas para mejorar la precisión de las predicciones de ventas y la comprensión del mercado.
