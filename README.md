@@ -1,10 +1,8 @@
-([#taller-de-machine-learning-con-dataset-iris](https://github.com/gustavo198saavedra/Datascience/edit/main/README.md#taller-de-machine-learning-con-dataset-iris-taller-de-machine-learning-con-dataset-iris))
+[Enlace al Taller de Machine Learning con Dataset Iris](#taller-de-machine-learning-con-dataset-iris)
 
-[[Enlace al Taller de Machine Learning: Boston House Prices Dataset](#taller-de-machine-learning-boston-house-prices-dataset)](https://github.com/gustavo198saavedra/Datascience/edit/main/README.md#taller-de-machine-learning-boston-house-prices-dataset-taller-de-machine-learning-boston-house-prices-dataset)
+[Enlace al Taller de Machine Learning: Boston House Prices Dataset](#taller-de-machine-learning-boston-house-prices-dataset)
 
-[[Enlace al Proyecto Analisis del mercado de los videojuegos](#proyecto-analisis-del-mercado-de-los-videojuegos)](https://github.com/gustavo198saavedra/Datascience/edit/main/README.md#taller-de-machine-learning-boston-house-prices-dataset-taller-de-machine-learning-boston-house-prices-dataset)
-
-Contenido del análisis de datos.
+[Enlace al Proyecto Analisis del mercado de los videojuegos](#proyecto-analisis-del-mercado-de-los-videojuegos)
 
 
 # Taller de Machine Learning con Dataset Iris {#taller-de-machine-learning-con-dataset-iris}
