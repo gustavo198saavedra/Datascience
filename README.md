@@ -4,6 +4,8 @@
 
 [Enlace al Proyecto Analisis del mercado de los videojuegos](https://github.com/gustavo198saavedra/Datascience?tab=readme-ov-file#proyecto-analisis-del-mercado-de-los-videojuegos-proyecto-analisis-del-mercado-de-los-videojuegos)
 
+[Enlace al video del tallerfinal1 procesamiento de datos secuenciales](https://drive.google.com/file/d/1OCmMQqVB-H4iBMkRI4QpbyR1Ci3FEhax/view?usp=sharing)
+
 
 # Taller de Machine Learning con Dataset Iris {#taller-de-machine-learning-con-dataset-iris}
 
